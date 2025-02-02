@@ -30,7 +30,7 @@ Open the `index.html` file in your browser.
 
 ### **1. Budget Summary Section**
 View your current **Total Income**, **Total Expenses**, and **Balance**:
-![Budget Summary Screenshot](Screenshots/Budget Summary.png)
+![Budget Summary Screenshot](Screenshots/BudgetSummary.png)
 
 ---
 
@@ -40,13 +40,13 @@ Navigate to the **Add Transaction** section to log a new income or expense:
 2. Enter the **amount**.
 3. Select **Income** or **Expense**.
 4. Click the **Add** button.
-![Add Transaction Screenshot](Screenshots/Add Transaction.png)
+![Add Transaction Screenshot](Screenshots/AddTransaction.png)
 
 ---
 
 ### **3. Transaction History**
 Navigate to the **Transaction History** section to view past transactions:
-![Transaction History Screenshot](Screenshots/Transaction history.png)
+![Transaction History Screenshot](Screenshots/Transactionhistory.png)
 
 ---
 
